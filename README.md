@@ -1,10 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making things unnecessarily complicated
-👯 I’m looking to collaborate on something that probably shouldn’t work
-🤝 I’m looking for help with figuring out what I’m doing
-🌱 I'm currently learning **Rust, Typescript, Svelte.**
-💬 Ask me about anything, I’ll probably have an opinion
-⚡ Fun fact: I have absolutely no idea what I’m doing
+🔭 I’m currently working on making things unnecessarily complicated<br>👯 I’m looking to collaborate on something that probably shouldn’t work<br>🤝 I’m looking for help with figuring out what I’m doing<br>🌱 I'm currently learning **Rust, Typescript, Svelte.**<br>💬 Ask me about anything, I’ll probably have an opinion<br>⚡ Fun fact: I have absolutely no idea what I’m doing
 
 
 
@@ -17,5 +12,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
